@@ -1,0 +1,19 @@
+# Переменные окружения (содержат секреты)
+.env
+
+# Локальные заметки
+ИНСТРУКЦИЯ.txt
+
+# Настройки Claude Code
+.claude/
+
+# Go
+backend/bin/
+*.exe
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
